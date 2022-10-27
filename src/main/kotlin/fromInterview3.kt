@@ -1,6 +1,7 @@
 package fromInterview
 
 fun main(){
+    // Разъединить слова "eat", "tea", "ate", "tan", "nat", "bat" по буквам
     println(groupWords(arrayOf("eat", "tea", "ate", "tan", "nat", "bat")))
 }
 
